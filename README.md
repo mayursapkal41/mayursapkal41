@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mayur Sapkal and I'm a Computer Engineering Student, from A. P. Shah Institute of Technology</p>
+<p align="left">My name is Mayur Sapkal and I'm a Computer Engineering Student, from Mumbai University</p>
 
 ###
 
