@@ -52,6 +52,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mayursapkal41/mayursapkal41/output/snake.svg" alt="Snake animation" />
-
-###
