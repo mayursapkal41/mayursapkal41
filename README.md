@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AIML and Blockchain<br>🎯 Goals:  Build innovative AI-driven solutions, develop blockchain-based payment systems, and create immersive game experiences.<br>🎲 Fun fact: Dark mode isn’t just for coding; it’s a lifestyle.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AIML and Data Analytics<br>🎯 Goals:  Build AI-powered systems that solve real-world problems at scale<br>🎲 Fun fact: Dark mode isn’t just for coding; it’s a lifestyle.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Have Used</h2>
 
 ###
 
@@ -42,6 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mayursapkal41/mayursapkal41/output/snake.svg" alt="Snake animation" />
 
 ###
